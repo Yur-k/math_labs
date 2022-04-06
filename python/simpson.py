@@ -1,3 +1,4 @@
+from distutils.command.build_scripts import first_line_re
 import numpy as np
 import timeit
 from timeit import Timer
@@ -10,12 +11,28 @@ def Simpson(function,lim1,lim2,n):
     # n - кількість кроків
     # обчислимо крок інтегрування
     h=(lim2-lim1)/n
+    print("h= ",h)
     # Підсумовуємо всі значення функції множені на відповідні коефіцієнти
     # та множимо суму на крок
-    Int=h/3*(function(lim1)+function(lim2)+
-             np.sum(np.asarray([function(lim1+h*i) for i in range(1,n,2)]))*4+
-             np.sum(np.asarray([function(lim1+h*i) for i in range(2,n,2)]))*2
-           )
+    first = function(lim1)+function(lim2)
+    pair = [i for i in range(2, n, 2)]
+    unpair = [i for i in range(1, n, 2)]
+    
+    secondV = [function(lim1+h*i) for i in pair]
+    thirdV = [function(lim1+h*i) for i in unpair]
+    print(secondV)
+    print(thirdV)
+    second = np.sum(np.asarray([function(lim1+h*i) for i in range(2,n,2)]))*2
+    third = np.sum(np.asarray([function(lim1+h*i) for i in range(1,n,2)]))*4
+
+
+    # print("++++++++++++=== ", np.asarray([i for i in range(2,n,2)]))
+    # print("Range pair ", np.asarray([function(lim1+h*i) for i in range(2,n,2)]))
+    # print("Range unpair ", np.asarray([function(lim1+h*i) for i in range(1,n,2)]))
+
+    print(first,second, third)
+    
+    Int=h/3*(first + second + third)
     return ('Simpson rule', Int)
 
 
@@ -53,5 +70,5 @@ Ntochok=1000
 sim = Simpson(lambda x: np.exp(x)*np.sin(3*x**2-x)+np.log(x+2), xlim1, xlim2, Ntochok)
 """
 t1 = Timer(stmt=test)
-print(t1.timeit(number=10)/10)
+print(t1.timeit(number=1)/1)
 #print(timeit.timeit(test), number= 2)
