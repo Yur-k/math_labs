@@ -1,0 +1,1728 @@
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    8502	    180695 ns/op
+BenchmarkSimpsonGor-8   	    6356	    163925 ns/op
+PASS
+ok  	integral/go	3.461s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    8193	    183665 ns/op
+BenchmarkSimpsonGor-8   	    6447	    176938 ns/op
+PASS
+ok  	integral/go	3.542s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7890	    173879 ns/op
+BenchmarkSimpsonGor-8   	    7632	    153062 ns/op
+PASS
+ok  	integral/go	3.239s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    168879 ns/op
+BenchmarkSimpsonGor-8   	    7312	    148274 ns/op
+PASS
+ok  	integral/go	2.817s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6914	    176375 ns/op
+BenchmarkSimpsonGor-8   	    7684	    172822 ns/op
+PASS
+ok  	integral/go	4.288s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    8185	    215892 ns/op
+BenchmarkSimpsonGor-8   	    7390	    159693 ns/op
+PASS
+ok  	integral/go	5.502s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    144786 ns/op
+BenchmarkSimpsonGor-8   	    5967	    170964 ns/op
+PASS
+ok  	integral/go	3.365s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    164557 ns/op
+BenchmarkSimpsonGor-8   	    6993	    166147 ns/op
+PASS
+ok  	integral/go	2.844s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    179964 ns/op
+BenchmarkSimpsonGor-8   	    6632	    162411 ns/op
+PASS
+ok  	integral/go	2.913s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6290	    182005 ns/op
+BenchmarkSimpsonGor-8   	    7062	    173524 ns/op
+PASS
+ok  	integral/go	4.057s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6412	    184037 ns/op
+BenchmarkSimpsonGor-8   	    6896	    148927 ns/op
+PASS
+ok  	integral/go	3.030s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    8589	    179808 ns/op
+BenchmarkSimpsonGor-8   	    7219	    154103 ns/op
+PASS
+ok  	integral/go	3.441s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    157841 ns/op
+BenchmarkSimpsonGor-8   	   10000	    174320 ns/op
+PASS
+ok  	integral/go	3.349s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    166625 ns/op
+BenchmarkSimpsonGor-8   	    6634	    193864 ns/op
+PASS
+ok  	integral/go	3.891s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    185331 ns/op
+BenchmarkSimpsonGor-8   	    6700	    186046 ns/op
+PASS
+ok  	integral/go	3.136s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6990	    174135 ns/op
+BenchmarkSimpsonGor-8   	    6435	    178856 ns/op
+PASS
+ok  	integral/go	4.279s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    186789 ns/op
+BenchmarkSimpsonGor-8   	    8397	    161725 ns/op
+PASS
+ok  	integral/go	3.258s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    183181 ns/op
+BenchmarkSimpsonGor-8   	   10000	    165226 ns/op
+PASS
+ok  	integral/go	3.513s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    186568 ns/op
+BenchmarkSimpsonGor-8   	   10000	    170845 ns/op
+PASS
+ok  	integral/go	3.600s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6316	    184601 ns/op
+BenchmarkSimpsonGor-8   	    7068	    177933 ns/op
+PASS
+ok  	integral/go	4.097s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5749	    202559 ns/op
+BenchmarkSimpsonGor-8   	    6364	    168255 ns/op
+PASS
+ok  	integral/go	2.283s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7718	    189262 ns/op
+BenchmarkSimpsonGor-8   	    7544	    177600 ns/op
+PASS
+ok  	integral/go	4.394s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    195307 ns/op
+BenchmarkSimpsonGor-8   	    7429	    158963 ns/op
+PASS
+ok  	integral/go	3.996s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5863	    189704 ns/op
+BenchmarkSimpsonGor-8   	    6642	    190201 ns/op
+PASS
+ok  	integral/go	4.121s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7894	    162351 ns/op
+BenchmarkSimpsonGor-8   	    7491	    176586 ns/op
+PASS
+ok  	integral/go	4.460s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6459	    191365 ns/op
+BenchmarkSimpsonGor-8   	    6628	    162654 ns/op
+PASS
+ok  	integral/go	3.079s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7339	    160813 ns/op
+BenchmarkSimpsonGor-8   	    7110	    176354 ns/op
+PASS
+ok  	integral/go	4.061s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7770	    176246 ns/op
+BenchmarkSimpsonGor-8   	    6054	    176280 ns/op
+PASS
+ok  	integral/go	4.135s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6535	    192716 ns/op
+BenchmarkSimpsonGor-8   	    5042	    213595 ns/op
+PASS
+ok  	integral/go	3.127s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5871	    175763 ns/op
+BenchmarkSimpsonGor-8   	    6919	    172313 ns/op
+PASS
+ok  	integral/go	3.112s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7628	    181971 ns/op
+BenchmarkSimpsonGor-8   	    6243	    167170 ns/op
+PASS
+ok  	integral/go	3.176s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    8955	    175183 ns/op
+BenchmarkSimpsonGor-8   	    5706	    193165 ns/op
+PASS
+ok  	integral/go	2.712s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7207	    185490 ns/op
+BenchmarkSimpsonGor-8   	    8260	    179731 ns/op
+PASS
+ok  	integral/go	2.860s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6937	    157141 ns/op
+BenchmarkSimpsonGor-8   	    6624	    168399 ns/op
+PASS
+ok  	integral/go	2.250s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6396	    181902 ns/op
+BenchmarkSimpsonGor-8   	   10000	    180465 ns/op
+PASS
+ok  	integral/go	3.006s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7207	    179396 ns/op
+BenchmarkSimpsonGor-8   	    9909	    191360 ns/op
+PASS
+ok  	integral/go	4.146s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    4924	    205934 ns/op
+BenchmarkSimpsonGor-8   	   10000	    176483 ns/op
+PASS
+ok  	integral/go	2.823s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    8036	    177636 ns/op
+BenchmarkSimpsonGor-8   	   10000	    162367 ns/op
+PASS
+ok  	integral/go	3.742s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6186	    176409 ns/op
+BenchmarkSimpsonGor-8   	    6552	    169107 ns/op
+PASS
+ok  	integral/go	4.102s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6295	    162370 ns/op
+BenchmarkSimpsonGor-8   	    6835	    160436 ns/op
+PASS
+ok  	integral/go	3.899s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5563	    204608 ns/op
+BenchmarkSimpsonGor-8   	    9592	    163255 ns/op
+PASS
+ok  	integral/go	2.746s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7033	    191782 ns/op
+BenchmarkSimpsonGor-8   	    6928	    168233 ns/op
+PASS
+ok  	integral/go	4.174s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7308	    189566 ns/op
+BenchmarkSimpsonGor-8   	    7209	    156628 ns/op
+PASS
+ok  	integral/go	4.259s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7491	    182536 ns/op
+BenchmarkSimpsonGor-8   	    7618	    172075 ns/op
+PASS
+ok  	integral/go	3.395s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9757	    192265 ns/op
+BenchmarkSimpsonGor-8   	    7816	    171520 ns/op
+PASS
+ok  	integral/go	3.977s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7432	    168017 ns/op
+BenchmarkSimpsonGor-8   	    6048	    200173 ns/op
+PASS
+ok  	integral/go	3.220s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6714	    190963 ns/op
+BenchmarkSimpsonGor-8   	    6560	    152845 ns/op
+PASS
+ok  	integral/go	2.328s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    186575 ns/op
+BenchmarkSimpsonGor-8   	   10000	    171214 ns/op
+PASS
+ok  	integral/go	3.606s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9463	    191188 ns/op
+BenchmarkSimpsonGor-8   	   10000	    159081 ns/op
+PASS
+ok  	integral/go	3.432s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    165008 ns/op
+BenchmarkSimpsonGor-8   	    8362	    178574 ns/op
+PASS
+ok  	integral/go	3.176s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7176	    178475 ns/op
+BenchmarkSimpsonGor-8   	    5713	    182517 ns/op
+PASS
+ok  	integral/go	3.094s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6070	    166124 ns/op
+BenchmarkSimpsonGor-8   	    8029	    164887 ns/op
+PASS
+ok  	integral/go	4.024s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6811	    174326 ns/op
+BenchmarkSimpsonGor-8   	    7305	    162778 ns/op
+PASS
+ok  	integral/go	3.155s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7534	    195922 ns/op
+BenchmarkSimpsonGor-8   	    6934	    166983 ns/op
+PASS
+ok  	integral/go	2.674s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7231	    182106 ns/op
+BenchmarkSimpsonGor-8   	   10000	    170646 ns/op
+PASS
+ok  	integral/go	3.705s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    180960 ns/op
+BenchmarkSimpsonGor-8   	    6538	    172694 ns/op
+PASS
+ok  	integral/go	3.774s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    194880 ns/op
+BenchmarkSimpsonGor-8   	    7419	    174238 ns/op
+PASS
+ok  	integral/go	4.081s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7594	    199869 ns/op
+BenchmarkSimpsonGor-8   	    8324	    186356 ns/op
+PASS
+ok  	integral/go	5.696s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6266	    171585 ns/op
+BenchmarkSimpsonGor-8   	    7344	    148574 ns/op
+PASS
+ok  	integral/go	2.933s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6792	    180679 ns/op
+BenchmarkSimpsonGor-8   	    5959	    188912 ns/op
+PASS
+ok  	integral/go	3.240s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    197196 ns/op
+BenchmarkSimpsonGor-8   	    6054	    172947 ns/op
+PASS
+ok  	integral/go	3.058s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6240	    171112 ns/op
+BenchmarkSimpsonGor-8   	    6394	    205081 ns/op
+PASS
+ok  	integral/go	2.424s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6037	    184243 ns/op
+BenchmarkSimpsonGor-8   	    6318	    187375 ns/op
+PASS
+ok  	integral/go	3.149s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    186109 ns/op
+BenchmarkSimpsonGor-8   	    7203	    154504 ns/op
+PASS
+ok  	integral/go	3.962s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    154421 ns/op
+BenchmarkSimpsonGor-8   	    7238	    185672 ns/op
+PASS
+ok  	integral/go	3.774s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    156142 ns/op
+BenchmarkSimpsonGor-8   	    7144	    148220 ns/op
+PASS
+ok  	integral/go	2.657s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6110	    170921 ns/op
+BenchmarkSimpsonGor-8   	    6988	    187221 ns/op
+PASS
+ok  	integral/go	4.149s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7282	    183076 ns/op
+BenchmarkSimpsonGor-8   	    6505	    181552 ns/op
+PASS
+ok  	integral/go	3.422s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7471	    197217 ns/op
+BenchmarkSimpsonGor-8   	    6172	    179803 ns/op
+PASS
+ok  	integral/go	4.246s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6148	    186048 ns/op
+BenchmarkSimpsonGor-8   	    8314	    165474 ns/op
+PASS
+ok  	integral/go	3.475s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7165	    155110 ns/op
+BenchmarkSimpsonGor-8   	    9202	    158095 ns/op
+PASS
+ok  	integral/go	3.380s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7914	    157034 ns/op
+BenchmarkSimpsonGor-8   	   10000	    183691 ns/op
+PASS
+ok  	integral/go	3.114s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6850	    193000 ns/op
+BenchmarkSimpsonGor-8   	    6585	    178104 ns/op
+PASS
+ok  	integral/go	4.267s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7185	    181712 ns/op
+BenchmarkSimpsonGor-8   	    7846	    191515 ns/op
+PASS
+ok  	integral/go	3.718s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5770	    177183 ns/op
+BenchmarkSimpsonGor-8   	   10000	    152818 ns/op
+PASS
+ok  	integral/go	2.587s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9573	    192534 ns/op
+BenchmarkSimpsonGor-8   	    7797	    134169 ns/op
+PASS
+ok  	integral/go	2.924s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6525	    179202 ns/op
+BenchmarkSimpsonGor-8   	   10000	    192718 ns/op
+PASS
+ok  	integral/go	3.957s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6058	    181837 ns/op
+BenchmarkSimpsonGor-8   	    6634	    169375 ns/op
+PASS
+ok  	integral/go	4.170s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7006	    210646 ns/op
+BenchmarkSimpsonGor-8   	    4640	    221097 ns/op
+PASS
+ok  	integral/go	3.277s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6184	    188506 ns/op
+BenchmarkSimpsonGor-8   	    7929	    174956 ns/op
+PASS
+ok  	integral/go	3.297s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6777	    178337 ns/op
+BenchmarkSimpsonGor-8   	    6852	    151234 ns/op
+PASS
+ok  	integral/go	3.079s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6943	    169581 ns/op
+BenchmarkSimpsonGor-8   	    9576	    171185 ns/op
+PASS
+ok  	integral/go	3.696s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6723	    172273 ns/op
+BenchmarkSimpsonGor-8   	    6934	    169140 ns/op
+PASS
+ok  	integral/go	3.236s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6902	    205557 ns/op
+BenchmarkSimpsonGor-8   	    8628	    175900 ns/op
+PASS
+ok  	integral/go	3.903s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6361	    190942 ns/op
+BenchmarkSimpsonGor-8   	    7002	    172962 ns/op
+PASS
+ok  	integral/go	3.330s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5626	    191635 ns/op
+BenchmarkSimpsonGor-8   	    5674	    198684 ns/op
+PASS
+ok  	integral/go	2.255s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    4666	    223054 ns/op
+BenchmarkSimpsonGor-8   	    5364	    202721 ns/op
+PASS
+ok  	integral/go	2.185s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5913	    206548 ns/op
+BenchmarkSimpsonGor-8   	   10000	    153438 ns/op
+PASS
+ok  	integral/go	2.794s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6879	    166433 ns/op
+BenchmarkSimpsonGor-8   	    6373	    179905 ns/op
+PASS
+ok  	integral/go	4.111s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    157889 ns/op
+BenchmarkSimpsonGor-8   	   10000	    190288 ns/op
+PASS
+ok  	integral/go	3.511s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6626	    163334 ns/op
+BenchmarkSimpsonGor-8   	    6915	    164820 ns/op
+PASS
+ok  	integral/go	4.166s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    170388 ns/op
+BenchmarkSimpsonGor-8   	    6442	    157131 ns/op
+PASS
+ok  	integral/go	3.603s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7332	    171196 ns/op
+BenchmarkSimpsonGor-8   	   10000	    178907 ns/op
+PASS
+ok  	integral/go	3.793s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6043	    182825 ns/op
+BenchmarkSimpsonGor-8   	   10000	    177736 ns/op
+PASS
+ok  	integral/go	2.920s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    194205 ns/op
+BenchmarkSimpsonGor-8   	    7058	    161853 ns/op
+PASS
+ok  	integral/go	3.119s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6630	    199279 ns/op
+BenchmarkSimpsonGor-8   	    7924	    177752 ns/op
+PASS
+ok  	integral/go	2.771s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6524	    196810 ns/op
+BenchmarkSimpsonGor-8   	   10000	    166069 ns/op
+PASS
+ok  	integral/go	3.969s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6276	    191389 ns/op
+BenchmarkSimpsonGor-8   	    6814	    173623 ns/op
+PASS
+ok  	integral/go	3.253s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    183706 ns/op
+BenchmarkSimpsonGor-8   	    6988	    180083 ns/op
+PASS
+ok  	integral/go	4.080s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6153	    192236 ns/op
+BenchmarkSimpsonGor-8   	    7666	    210394 ns/op
+PASS
+ok  	integral/go	4.469s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7159	    160555 ns/op
+BenchmarkSimpsonGor-8   	    6541	    183014 ns/op
+PASS
+ok  	integral/go	3.247s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7968	    166879 ns/op
+BenchmarkSimpsonGor-8   	    8094	    166667 ns/op
+PASS
+ok  	integral/go	3.389s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    171985 ns/op
+BenchmarkSimpsonGor-8   	    7034	    195666 ns/op
+PASS
+ok  	integral/go	3.999s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6486	    191524 ns/op
+BenchmarkSimpsonGor-8   	    6950	    162945 ns/op
+PASS
+ok  	integral/go	4.032s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7131	    200564 ns/op
+BenchmarkSimpsonGor-8   	    6270	    160810 ns/op
+PASS
+ok  	integral/go	3.243s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7370	    162958 ns/op
+BenchmarkSimpsonGor-8   	    7929	    159576 ns/op
+PASS
+ok  	integral/go	4.055s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6912	    178675 ns/op
+BenchmarkSimpsonGor-8   	    7144	    165923 ns/op
+PASS
+ok  	integral/go	5.281s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6336	    167150 ns/op
+BenchmarkSimpsonGor-8   	    7496	    170135 ns/op
+PASS
+ok  	integral/go	4.048s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7449	    165272 ns/op
+BenchmarkSimpsonGor-8   	    7026	    144188 ns/op
+PASS
+ok  	integral/go	3.244s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6837	    166067 ns/op
+BenchmarkSimpsonGor-8   	    6972	    167364 ns/op
+PASS
+ok  	integral/go	3.928s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6896	    181722 ns/op
+BenchmarkSimpsonGor-8   	    4515	    225891 ns/op
+PASS
+ok  	integral/go	4.190s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7194	    196212 ns/op
+BenchmarkSimpsonGor-8   	    8637	    187473 ns/op
+PASS
+ok  	integral/go	4.488s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6663	    181636 ns/op
+BenchmarkSimpsonGor-8   	    7029	    149659 ns/op
+PASS
+ok  	integral/go	2.304s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5799	    193865 ns/op
+BenchmarkSimpsonGor-8   	    7010	    165448 ns/op
+PASS
+ok  	integral/go	3.287s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    177281 ns/op
+BenchmarkSimpsonGor-8   	    7680	    164288 ns/op
+PASS
+ok  	integral/go	4.999s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    165585 ns/op
+BenchmarkSimpsonGor-8   	    6440	    165889 ns/op
+PASS
+ok  	integral/go	2.761s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    156830 ns/op
+BenchmarkSimpsonGor-8   	    6958	    163190 ns/op
+PASS
+ok  	integral/go	3.633s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7041	    210961 ns/op
+BenchmarkSimpsonGor-8   	    6343	    196338 ns/op
+PASS
+ok  	integral/go	5.451s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9132	    170818 ns/op
+BenchmarkSimpsonGor-8   	    7282	    165538 ns/op
+PASS
+ok  	integral/go	3.556s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    179634 ns/op
+BenchmarkSimpsonGor-8   	   10000	    165613 ns/op
+PASS
+ok  	integral/go	3.479s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9439	    193103 ns/op
+BenchmarkSimpsonGor-8   	    5311	    192137 ns/op
+PASS
+ok  	integral/go	2.886s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9636	    176580 ns/op
+BenchmarkSimpsonGor-8   	    8384	    181457 ns/op
+PASS
+ok  	integral/go	3.257s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5618	    184496 ns/op
+BenchmarkSimpsonGor-8   	    7286	    184867 ns/op
+PASS
+ok  	integral/go	3.410s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7140	    177457 ns/op
+BenchmarkSimpsonGor-8   	    7590	    183434 ns/op
+PASS
+ok  	integral/go	3.556s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6524	    170316 ns/op
+BenchmarkSimpsonGor-8   	    8572	    181624 ns/op
+PASS
+ok  	integral/go	2.708s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7069	    172193 ns/op
+BenchmarkSimpsonGor-8   	    6464	    163907 ns/op
+PASS
+ok  	integral/go	3.187s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7026	    187157 ns/op
+BenchmarkSimpsonGor-8   	   10000	    186807 ns/op
+PASS
+ok  	integral/go	4.110s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    175511 ns/op
+BenchmarkSimpsonGor-8   	    6841	    180467 ns/op
+PASS
+ok  	integral/go	3.024s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6022	    168616 ns/op
+BenchmarkSimpsonGor-8   	    9890	    168274 ns/op
+PASS
+ok  	integral/go	2.721s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6128	    168512 ns/op
+BenchmarkSimpsonGor-8   	    6744	    163514 ns/op
+PASS
+ok  	integral/go	3.076s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6165	    166305 ns/op
+BenchmarkSimpsonGor-8   	    7507	    159448 ns/op
+PASS
+ok  	integral/go	2.265s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6758	    181772 ns/op
+BenchmarkSimpsonGor-8   	    7623	    162062 ns/op
+PASS
+ok  	integral/go	3.239s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6542	    172295 ns/op
+BenchmarkSimpsonGor-8   	    8300	    172162 ns/op
+PASS
+ok  	integral/go	4.035s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7658	    184934 ns/op
+BenchmarkSimpsonGor-8   	   10000	    178377 ns/op
+PASS
+ok  	integral/go	3.234s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    172745 ns/op
+BenchmarkSimpsonGor-8   	    5962	    183902 ns/op
+PASS
+ok  	integral/go	2.864s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    180369 ns/op
+BenchmarkSimpsonGor-8   	    7470	    149824 ns/op
+PASS
+ok  	integral/go	3.718s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6061	    183177 ns/op
+BenchmarkSimpsonGor-8   	    7812	    180504 ns/op
+PASS
+ok  	integral/go	3.463s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6583	    179471 ns/op
+BenchmarkSimpsonGor-8   	    6265	    170373 ns/op
+PASS
+ok  	integral/go	2.296s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6007	    189888 ns/op
+BenchmarkSimpsonGor-8   	    9205	    188730 ns/op
+PASS
+ok  	integral/go	3.846s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7101	    179962 ns/op
+BenchmarkSimpsonGor-8   	    7174	    185752 ns/op
+PASS
+ok  	integral/go	3.610s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7206	    203259 ns/op
+BenchmarkSimpsonGor-8   	    6642	    151691 ns/op
+PASS
+ok  	integral/go	3.924s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7056	    177256 ns/op
+BenchmarkSimpsonGor-8   	    7146	    162956 ns/op
+PASS
+ok  	integral/go	2.457s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    8343	    189616 ns/op
+BenchmarkSimpsonGor-8   	    6967	    170733 ns/op
+PASS
+ok  	integral/go	4.632s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5836	    218582 ns/op
+BenchmarkSimpsonGor-8   	    8689	    176911 ns/op
+PASS
+ok  	integral/go	3.757s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    177054 ns/op
+BenchmarkSimpsonGor-8   	    9381	    189932 ns/op
+PASS
+ok  	integral/go	3.584s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    8086	    164240 ns/op
+BenchmarkSimpsonGor-8   	    8134	    153464 ns/op
+PASS
+ok  	integral/go	2.615s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    178004 ns/op
+BenchmarkSimpsonGor-8   	    7825	    179665 ns/op
+PASS
+ok  	integral/go	3.221s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6639	    184671 ns/op
+BenchmarkSimpsonGor-8   	    6651	    151615 ns/op
+PASS
+ok  	integral/go	3.230s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6140	    165336 ns/op
+BenchmarkSimpsonGor-8   	    6578	    188464 ns/op
+PASS
+ok  	integral/go	4.207s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9834	    185999 ns/op
+BenchmarkSimpsonGor-8   	    7112	    170431 ns/op
+PASS
+ok  	integral/go	4.070s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9439	    200953 ns/op
+BenchmarkSimpsonGor-8   	    5242	    194457 ns/op
+PASS
+ok  	integral/go	2.960s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7065	    219769 ns/op
+BenchmarkSimpsonGor-8   	    6597	    178039 ns/op
+PASS
+ok  	integral/go	3.696s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    191133 ns/op
+BenchmarkSimpsonGor-8   	   10000	    161794 ns/op
+PASS
+ok  	integral/go	3.555s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6009	    180402 ns/op
+BenchmarkSimpsonGor-8   	   10000	    159895 ns/op
+PASS
+ok  	integral/go	2.719s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    163160 ns/op
+BenchmarkSimpsonGor-8   	   10000	    179532 ns/op
+PASS
+ok  	integral/go	3.456s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6706	    184495 ns/op
+BenchmarkSimpsonGor-8   	    6066	    176432 ns/op
+PASS
+ok  	integral/go	3.281s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    167844 ns/op
+BenchmarkSimpsonGor-8   	   10000	    176487 ns/op
+PASS
+ok  	integral/go	3.471s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6034	    209065 ns/op
+BenchmarkSimpsonGor-8   	   10000	    155097 ns/op
+PASS
+ok  	integral/go	3.726s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6254	    171685 ns/op
+BenchmarkSimpsonGor-8   	    8743	    203005 ns/op
+PASS
+ok  	integral/go	2.890s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9674	    167822 ns/op
+BenchmarkSimpsonGor-8   	    6552	    180694 ns/op
+PASS
+ok  	integral/go	2.845s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    176045 ns/op
+BenchmarkSimpsonGor-8   	    6387	    157507 ns/op
+PASS
+ok  	integral/go	3.731s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    195357 ns/op
+BenchmarkSimpsonGor-8   	    7221	    161337 ns/op
+PASS
+ok  	integral/go	3.993s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7240	    171485 ns/op
+BenchmarkSimpsonGor-8   	   10000	    168550 ns/op
+PASS
+ok  	integral/go	2.963s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9656	    178991 ns/op
+BenchmarkSimpsonGor-8   	    6588	    174402 ns/op
+PASS
+ok  	integral/go	2.916s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7167	    196659 ns/op
+BenchmarkSimpsonGor-8   	    6134	    174463 ns/op
+PASS
+ok  	integral/go	2.523s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    4804	    221650 ns/op
+BenchmarkSimpsonGor-8   	   10000	    170723 ns/op
+PASS
+ok  	integral/go	2.815s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6363	    159305 ns/op
+BenchmarkSimpsonGor-8   	    6969	    173241 ns/op
+PASS
+ok  	integral/go	4.139s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5545	    214043 ns/op
+BenchmarkSimpsonGor-8   	    6266	    173027 ns/op
+PASS
+ok  	integral/go	3.210s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    169410 ns/op
+BenchmarkSimpsonGor-8   	    6742	    191191 ns/op
+PASS
+ok  	integral/go	3.850s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    182229 ns/op
+BenchmarkSimpsonGor-8   	    5806	    173673 ns/op
+PASS
+ok  	integral/go	2.867s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6771	    171374 ns/op
+BenchmarkSimpsonGor-8   	    6097	    176206 ns/op
+PASS
+ok  	integral/go	3.076s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9276	    166601 ns/op
+BenchmarkSimpsonGor-8   	    6841	    179981 ns/op
+PASS
+ok  	integral/go	2.816s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6597	    185236 ns/op
+BenchmarkSimpsonGor-8   	    6552	    172545 ns/op
+PASS
+ok  	integral/go	3.301s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6878	    178357 ns/op
+BenchmarkSimpsonGor-8   	    6554	    171887 ns/op
+PASS
+ok  	integral/go	4.174s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6314	    192127 ns/op
+BenchmarkSimpsonGor-8   	    9249	    188041 ns/op
+PASS
+ok  	integral/go	3.917s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    8198	    179893 ns/op
+BenchmarkSimpsonGor-8   	    7554	    170886 ns/op
+PASS
+ok  	integral/go	3.648s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6289	    177051 ns/op
+BenchmarkSimpsonGor-8   	    6392	    182550 ns/op
+PASS
+ok  	integral/go	3.210s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5936	    178746 ns/op
+BenchmarkSimpsonGor-8   	    8088	    183774 ns/op
+PASS
+ok  	integral/go	3.513s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7210	    192262 ns/op
+BenchmarkSimpsonGor-8   	    6630	    179699 ns/op
+PASS
+ok  	integral/go	3.434s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    177192 ns/op
+BenchmarkSimpsonGor-8   	    7706	    166122 ns/op
+PASS
+ok  	integral/go	3.785s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6379	    169956 ns/op
+BenchmarkSimpsonGor-8   	   10000	    195808 ns/op
+PASS
+ok  	integral/go	3.829s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9130	    159254 ns/op
+BenchmarkSimpsonGor-8   	    8066	    179899 ns/op
+PASS
+ok  	integral/go	3.590s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6054	    184408 ns/op
+BenchmarkSimpsonGor-8   	    7900	    162127 ns/op
+PASS
+ok  	integral/go	4.279s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    179262 ns/op
+BenchmarkSimpsonGor-8   	    9441	    184035 ns/op
+PASS
+ok  	integral/go	3.562s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    187073 ns/op
+BenchmarkSimpsonGor-8   	    5770	    178419 ns/op
+PASS
+ok  	integral/go	2.939s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    189549 ns/op
+BenchmarkSimpsonGor-8   	    7960	    192693 ns/op
+PASS
+ok  	integral/go	4.247s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    161197 ns/op
+BenchmarkSimpsonGor-8   	    6678	    172463 ns/op
+PASS
+ok  	integral/go	3.539s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9824	    172016 ns/op
+BenchmarkSimpsonGor-8   	    6657	    157978 ns/op
+PASS
+ok  	integral/go	3.708s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5542	    184347 ns/op
+BenchmarkSimpsonGor-8   	    8835	    172778 ns/op
+PASS
+ok  	integral/go	3.567s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5552	    211672 ns/op
+BenchmarkSimpsonGor-8   	    9054	    170722 ns/op
+PASS
+ok  	integral/go	3.624s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    8157	    147382 ns/op
+BenchmarkSimpsonGor-8   	   10000	    155767 ns/op
+PASS
+ok  	integral/go	3.413s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7490	    175199 ns/op
+BenchmarkSimpsonGor-8   	    7896	    176072 ns/op
+PASS
+ok  	integral/go	3.470s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7350	    170376 ns/op
+BenchmarkSimpsonGor-8   	    6510	    170690 ns/op
+PASS
+ok  	integral/go	5.248s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    8107	    181590 ns/op
+BenchmarkSimpsonGor-8   	    7416	    165319 ns/op
+PASS
+ok  	integral/go	3.665s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6489	    178813 ns/op
+BenchmarkSimpsonGor-8   	    7676	    171096 ns/op
+PASS
+ok  	integral/go	3.258s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6116	    172993 ns/op
+BenchmarkSimpsonGor-8   	    6411	    178717 ns/op
+PASS
+ok  	integral/go	4.057s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6488	    191693 ns/op
+BenchmarkSimpsonGor-8   	    5954	    181297 ns/op
+PASS
+ok  	integral/go	3.219s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9890	    199253 ns/op
+BenchmarkSimpsonGor-8   	   10000	    177733 ns/op
+PASS
+ok  	integral/go	3.777s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5649	    186400 ns/op
+BenchmarkSimpsonGor-8   	    9067	    179371 ns/op
+PASS
+ok  	integral/go	2.721s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6027	    180863 ns/op
+BenchmarkSimpsonGor-8   	    6500	    183450 ns/op
+PASS
+ok  	integral/go	3.269s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6604	    185236 ns/op
+BenchmarkSimpsonGor-8   	    6715	    170427 ns/op
+PASS
+ok  	integral/go	3.245s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7280	    163284 ns/op
+BenchmarkSimpsonGor-8   	    6330	    174952 ns/op
+PASS
+ok  	integral/go	3.288s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    9957	    148009 ns/op
+BenchmarkSimpsonGor-8   	    6387	    214539 ns/op
+PASS
+ok  	integral/go	3.793s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    4351	    243068 ns/op
+BenchmarkSimpsonGor-8   	    6528	    166952 ns/op
+PASS
+ok  	integral/go	2.203s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    206000 ns/op
+BenchmarkSimpsonGor-8   	    7628	    176371 ns/op
+PASS
+ok  	integral/go	4.273s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    8575	    191754 ns/op
+BenchmarkSimpsonGor-8   	    6582	    189602 ns/op
+PASS
+ok  	integral/go	3.705s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5986	    202557 ns/op
+BenchmarkSimpsonGor-8   	    6254	    173552 ns/op
+PASS
+ok  	integral/go	3.162s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5886	    172728 ns/op
+BenchmarkSimpsonGor-8   	   10000	    185841 ns/op
+PASS
+ok  	integral/go	3.820s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6841	    171271 ns/op
+BenchmarkSimpsonGor-8   	    6397	    189281 ns/op
+PASS
+ok  	integral/go	2.428s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7270	    184295 ns/op
+BenchmarkSimpsonGor-8   	    7248	    189468 ns/op
+PASS
+ok  	integral/go	3.463s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    5754	    180095 ns/op
+BenchmarkSimpsonGor-8   	    8636	    168396 ns/op
+PASS
+ok  	integral/go	2.534s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6765	    178454 ns/op
+BenchmarkSimpsonGor-8   	   10000	    154770 ns/op
+PASS
+ok  	integral/go	3.644s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6460	    184352 ns/op
+BenchmarkSimpsonGor-8   	   10000	    144672 ns/op
+PASS
+ok  	integral/go	3.462s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    7941	    174402 ns/op
+BenchmarkSimpsonGor-8   	   10000	    166486 ns/op
+PASS
+ok  	integral/go	3.082s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	    6248	    189620 ns/op
+BenchmarkSimpsonGor-8   	    6764	    169668 ns/op
+PASS
+ok  	integral/go	3.260s
+goos: linux
+goarch: amd64
+pkg: integral/go
+cpu: AMD Ryzen 5 3400G with Radeon Vega Graphics    
+BenchmarkSimpson-8      	   10000	    178399 ns/op
+BenchmarkSimpsonGor-8   	    6754	    183535 ns/op
+PASS
+ok  	integral/go	3.825s
