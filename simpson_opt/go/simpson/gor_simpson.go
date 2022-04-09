@@ -10,15 +10,14 @@ func SimpsonGor(function func(x float64) float64, lim1, lim2 float64, n int) flo
 	// lim1 lim2 - межі інтегрування
 	// n - кількість кроків
 	// обчислимо крок інтегрування
-
 	var h float64 = (lim2 - lim1) / float64(n)
+
 	// Формулу Сімпсона можна поділити на 3 частини
 	// Перша - сума першого та останнього значення підінтегральної функції
 	// Друга - сума членів з парними індексами, що множиться на 2
 	// Третя - сума членів з непарними індексами, що множиться на 4
 
-	// Заповнюємо масив("зріз") точок
-	// var numbers []int = make([]int, int(n))
+	// Розподіяємо на парні та непарні й одразу обчислюємо
 	var pairIndexValue, oddIndexValue []float64
 	for i := 1; i < int(n); i++ {
 		if i%2 == 0 {
@@ -27,7 +26,7 @@ func SimpsonGor(function func(x float64) float64, lim1, lim2 float64, n int) flo
 			oddIndexValue = append(oddIndexValue, function(lim1+h*float64(i)))
 		}
 	}
-	// Сумуємо на всіх етапах
+	// розпаралелюємо обчислення
 	wg.Add(3)
 	firstPartCh := make(chan float64)
 	pairChTot := make(chan float64)
@@ -48,18 +47,6 @@ func SimpsonGor(function func(x float64) float64, lim1, lim2 float64, n int) flo
 	return simp
 }
 
-func PairOdd1(arr []int, pairCh, oddCh chan int) {
-	// var odd, pair []int
-	defer close(pairCh)
-	defer close(oddCh)
-	for _, i := range arr[1:] {
-		if i%2 == 0 {
-			pairCh <- i
-		} else {
-			oddCh <- i
-		}
-	}
-}
 func SumTotal(arr []float64, ch chan float64, wg *sync.WaitGroup) {
 	defer wg.Done()
 	oddTotal := 0.0
